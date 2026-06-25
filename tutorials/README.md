@@ -23,3 +23,19 @@ Each new tutorial should include:
 - Step-by-step instructions
 - Expected result
 - Troubleshooting notes
+
+## Adding A Tutorial
+
+Use the next available number in the file name, for example:
+
+```text
+07-new-topic.md
+```
+
+Then add the new tutorial to the table above.
+
+If a tutorial needs supporting files, put them in:
+
+```text
+tutorials/examples/example-name/
+```
