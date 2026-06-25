@@ -39,6 +39,12 @@ Contributions are welcome. Good first contributions include:
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
+## Authorship
+
+Tutorial authors are credited in [AUTHORS.md](AUTHORS.md).
+
+If you contribute a tutorial, your name should be listed with the tutorial title. The repository is owned by the `Qiu-biophysics` organization so the group can maintain access over time, but individual students should still receive clear credit for the material they create.
+
 ## Data Policy
 
 Only public, non-sensitive example data should be committed to this repository.
@@ -58,4 +64,3 @@ If a tutorial needs real research data, link to an approved public source or ask
 This repository belongs to the `Qiu-biophysics` GitHub organization.
 
 The organization owner or repository maintainers can help with access, review, and data-sharing decisions when needed.
-
