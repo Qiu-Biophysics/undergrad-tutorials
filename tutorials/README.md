@@ -1,16 +1,21 @@
 # Tutorials
 
-Add tutorial files in this folder.
+This folder contains beginner-friendly tutorials for computational biophysics workflows.
 
-Suggested naming:
+## Current Tutorials
 
-```text
-01-getting-started.md
-02-basic-python-for-biophysics.md
-03-example-data-analysis.ipynb
-```
+| File | Topic |
+| --- | --- |
+| [01-linux-filesystem.md](01-linux-filesystem.md) | Navigating the Linux filesystem |
+| [02-isaac-open-ondemand.md](02-isaac-open-ondemand.md) | ISAAC-NG and Open OnDemand |
+| [03-lammps.md](03-lammps.md) | LAMMPS molecular dynamics |
+| [04-dp-gen.md](04-dp-gen.md) | DP-GEN hands-on example |
+| [05-ovito.md](05-ovito.md) | OVITO visualization and analysis |
+| [06-vmd.md](06-vmd.md) | VMD for DFT simulation workflows |
 
-Each tutorial should include:
+## Suggested Format
+
+Each new tutorial should include:
 
 - Goal
 - Background
@@ -18,4 +23,3 @@ Each tutorial should include:
 - Step-by-step instructions
 - Expected result
 - Troubleshooting notes
-

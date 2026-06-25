@@ -21,7 +21,7 @@ figures/     Images used by tutorials
 
 ## Getting Started
 
-1. Open the `tutorials/` folder.
+1. Open the [tutorials](tutorials/) folder.
 2. Choose a tutorial that matches your current level.
 3. Follow the instructions in that tutorial.
 4. If something is unclear, open an issue or suggest an improvement.

@@ -6,7 +6,7 @@ This file credits the students and group members who created tutorial material i
 
 | Tutorial | Author | GitHub | Notes |
 | --- | --- | --- | --- |
-| Undergraduate tutorial | Marcus Beebe | [@Marcus-Beebe](https://github.com/Marcus-Beebe) | Original tutorial author |
+| Computational biophysics tutorial set | Marcus Beebe | [@Marcus-Beebe](https://github.com/Marcus-Beebe) | Original tutorial author. Source copied from [Marcus-Beebe/Qiu-Biophysics-](https://github.com/Marcus-Beebe/Qiu-Biophysics-) |
 
 ## Maintainers
 
